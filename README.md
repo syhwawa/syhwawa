@@ -5,3 +5,4 @@
 - 👯 I’m looking to collaborate on data scientce projects
 - 📫 How to reach me: syhwawa@gmail.com
 
+https://github.com/syhwawa/syhwawa/blob/main/giphy.gif
