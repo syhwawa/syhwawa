@@ -7,5 +7,4 @@
 
 ![](https://github.com/syhwawa/syhwawa/blob/main/giphy.gif)
 
-### Connet
 You can find me on [LinkedIn](https://www.linkedin.com/in/yuhao-sun/)
