@@ -1,9 +1,5 @@
 ### Hi there, I'm Yuhao Sun 👋
 
-Senior Data Scientist with a Ph.D. from Imperial College London, building scalable data pipelines and cloud solutions for large-scale modelling projects.
-
----
-
 **What I do:**
 - 🚀 Build scalable data pipelines and automation frameworks
 - ☁️ Design and deploy cloud solutions for large-scale data processing
@@ -16,7 +12,7 @@ Senior Data Scientist with a Ph.D. from Imperial College London, building scalab
 
 **Background:**
 - 🎓 Ph.D. Mechanical Engineering — Imperial College London
-- 🏢 Senior Data Scientist (2021 – Present)
+- 🏢 Senior Data Scientist
 
 📫 yuhao.sun1992@gmail.com | [LinkedIn](https://www.linkedin.com/in/yuhao-sun/)
 
