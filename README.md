@@ -16,7 +16,7 @@
 
 
 **Background:**
-- 🎓 Ph.D. Mechanical Engineering — Imperial College London
+- 🎓 Ph.D. Mechanical Engineering at Imperial College London
 - 🏢 Senior Data Scientist
 
 📫 yuhao.sun1992@gmail.com | [LinkedIn](https://www.linkedin.com/in/yuhao-sun/)
