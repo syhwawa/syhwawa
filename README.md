@@ -10,6 +10,11 @@
 `Python` `AWS` `Docker` `Terraform` `SQL` `Git`
 `Pandas` `Scikit-Learn` `TensorFlow` `Keras` `GeoPandas`
 
+**Interests:**
+- 🧠 Passionate about AI, machine learning and their real-world applications
+- ⛷️ Skiing | 🎾 Tennis | 👨‍🍳Cooking
+
+
 **Background:**
 - 🎓 Ph.D. Mechanical Engineering — Imperial College London
 - 🏢 Senior Data Scientist
