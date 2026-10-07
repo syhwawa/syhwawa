@@ -39,6 +39,9 @@
     <img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-006699?style=for-the-badge&logo=ibm&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <a href="https://www.credly.com/badges/8c438b35-004d-48cb-a5b1-67cbfce9f439">
+    <img src="https://img.shields.io/badge/AWS-Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
   <a href="https://coursera.org/verify/NGQYU2AP94CK">
     <img src="https://img.shields.io/badge/UC%20San%20Diego-Machine%20Learning%20With%20Big%20Data-003DA5?style=for-the-badge&logo=coursera&logoColor=white" />
   </a>
